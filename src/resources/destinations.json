@@ -1,0 +1,58 @@
+{
+    "results": [{
+      "description": "Dr Neville Chittick once described Aksum (often incorrectly spelled Axum) as ‘the last of the great civilisations of Antiquity to be revealed to modern knowledge’. Yet even today, despite being one of the most important ancient sites in sub-Saharan Africa, this Unesco World Heritage site has revealed only a tiny fraction of its secrets, and an exploration of its ruined tombs and palaces is sure to light a spark of excitement.",
+      "title": "Aksum",
+      "image": "aksum",
+    "link": "https://lonelyplanetimages.imgix.net/mastheads/148845343_high.jpg",
+    "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/aksum.jpg"
+  }, {
+    "description": "Bubbling volcanoes light up the night sky, sulphurous mounds of yellow contort into other-worldly shapes, and mirages of camels cross lakes of salt. Lying 100m and more below sea level, the Danakil Depression (የደንከል በረሃ) is about the hottest and most inhospitable place on earth. In fact it’s so surreal that it doesn’t feel like part of earth at all. If you want genuine, raw adventure, few corners of the globe can match this overwhelming wilderness.",
+    "title": "Danakil depression",
+    "image": "danakil2",
+	"link": "https://www.zionethiopiatours.com/images/content/large/danakil_depression.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/danakil2.jpg"
+  }, {
+    "description": "No matter how you look at it, the Unesco World Heritage–listed Simien Mountains National Park is one of Africa’s most beautiful ranges. This massive plateau, riven with gullies and pinnacles, offers tough but immensely rewarding trekking along the ridge that falls sheer to the plains far below. It’s not just the scenery that will leave you speechless, but also the excitement of sitting among a group of gelada monkeys, or watching magnificent walia ibex joust on rock ledges.",
+    "title": "Simien mountains",
+    "image": "simien",
+  "link": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/01/09/14/1073987-182568925283997-1376989486-o.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/simien.jpg"
+  },{
+    "description": "There's nowhere on earth quite like Abuna Yemata Guh. Although less impressive architecturally than most, the church is spectacularly sited within a cliff face, halfway up a sheer rock pinnacle 4km west of Megab. The first 45 minutes of the climb is mildly challenging, with a couple of tricky sheer sections requiring toehold action. The last two minutes require nerves of steel to make the final scramble and precarious ledge walk over a 200m drop. ",
+    "title": "Gherealta",
+    "image": "gherealta",
+  "link": "https://i.pinimg.com/originals/82/c5/71/82c571f8b5dc99daaf955223871a5281.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/gherealta.jpg"
+  }, {
+    "description": "It’s not what Gonder (ጎንደር) is, but what Gonder was that’s so enthralling. The city lies in a bowl of hills where tall trees shelter tin-roofed stone houses, but rising above these, and standing proud through the centuries, are the walls of castles bathed in blood and painted in the pomp of royalty. It's often called the 'Camelot of Africa', a description that does the royal city a disservice: Camelot is legend, whereas Gonder is reality.",
+    "title": "Gonder",
+    "image": "gonder",
+  "link": "http://www.aealemetethiopiatour.com/wp-content/uploads/2017/03/641yegondorfasil.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/gonder.jpg"
+  }, {
+    "description": "Lalibela (ላሊበላ) is history and mystery frozen in stone, its soul alive with the rites and awe of Christianity at its most ancient and unbending. No matter what you’ve heard about Lalibela, no matter how many pictures you’ve seen of its breathtaking rock-hewn churches, nothing can prepare you for the reality of seeing it for yourself. Spending a night vigil here during one of the big religious festivals, when white-robed pilgrims in their hundreds crowd the courtyards of the churches, is to witness Christianity in its most raw and powerful form.",
+    "title": "Lalibela",
+    "image": "lalibela",
+  "link": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/22/d8.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/lalibela.jpg"
+  },{
+	"description": "Debre Damo is one of Ethiopia's most important monasteries and is thought to date back to Aksumite times and the 6th-century reign of King Gebre Meskel. The monastery’s formidable cliffs make for one of Ethiopia's most memorable experiences (for men, at least – women aren't allowed up). To reach the monastery, you'll need to scale a sheer 15m cliff; there’s a thick leather rope to help you climb and the monks will tie a second line around your torso and help pull you up.",
+	"title": "Debre Damo",
+	"image": "debredamo",
+  "link": "https://lonelyplanetimages.imgix.net/a/g/hi/t/762402e617775bf0b4a4696b9d17a517-debre-damo.jpg?fit=crop&w=960&h=416",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/debredamo.jpg"
+  },  {
+    "description": "Some people like to describe Bahir Dar (ባህር ዳር) as the Ethiopian Riviera. The moniker sounds strange, but when you pull into town and see the wide streets shaded by palm trees and sweeping views across Lake Tana’s shimmering blue waters, you’ll perhaps understand. More than a block back from the shore, however, Bahir Dar is just another busy Ethiopian city.",
+    "title": "Bahirdar",
+    "image": "bahirdar",
+  "link": "http://bdrguide.et/wp-content/uploads/2016/11/blue-nile-falls.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/bahirdar.jpg"
+  }, {
+    "description": "The rapidly expanding university city of Mekele (መቀሌ), Tigray’s capital, owes its importance to Emperor Yohannes IV, who made it his capital in the late 19th century. Though hardly anyone comes to see the town itself, there's enough here to pass the time waiting for your Danakil tour to depart or en route between Lalibela and the north.",
+    "title": "Mekelle",
+    "image": "mekelle",
+  "link": "http://www.tigraionline.com/tasset/images/mekelle-martys-oblisk.jpg",
+  "repo": "https://raw.githubusercontent.com/Fthi-S3074641/aksumitetours/master/dist/mekelle.jpg"
+  }]
+  }
+  
