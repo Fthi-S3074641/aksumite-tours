@@ -1,6 +1,6 @@
 <template>
-<v-layout row wrap >
- <v-flex xs4 v-for="(trip, index) in getTours" :key="index">
+<v-row >
+ <v-col cols="6" v-for="(trip, index) in getTours" :key="index">
       <v-card
       style="margin: 10px;"
       xs12 md8 sm6
@@ -20,8 +20,8 @@
                   {{trip['description']}}
               </v-card-text>
         </v-card>
-        </v-flex>
-</v-layout>
+        </v-col>
+</v-row>
 </template>
 
 <script>
