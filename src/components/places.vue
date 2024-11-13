@@ -2,8 +2,7 @@
 <v-row >
  <v-col cols="12" v-for="(trip, index) in getTours" :key="index">
       <v-card
-      style="margin: 10px;"
-      xs12 md8 sm6
+      style="margin: 10px;
       >
         <v-img
             :src="`${trip.repo}`"
