@@ -1,6 +1,6 @@
 <template>
 <v-row >
- <v-col cols="6" v-for="(trip, index) in getTours" :key="index">
+ <v-col cols="12" v-for="(trip, index) in getTours" :key="index">
       <v-card
       style="margin: 10px;"
       xs12 md8 sm6
